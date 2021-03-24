@@ -11,7 +11,7 @@ Part 2:
 
 
 	Part 3:
-	Files for 3A are in the SootOutput Folder
+		Files for 3A are in the SootOutput Folder
 
 		Sample output for 3B: 
 		Thread Thread-5 wrote static field x
