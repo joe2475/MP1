@@ -11,4 +11,11 @@ Part 2:
 
 
 	Part 3:
-
+		Sample output for 3B: 
+		Thread Thread-5 wrote static field x
+		Thread Thread-6 wrote static field x
+		Thread Thread-6 read instance field y of object r0.<project.HelloThread$TestThread: int y>
+		Thread Thread-6 read instance field y of object r0.<project.HelloThread$TestThread: int y>
+		Thread Thread-5 read instance field y of object $r2.<project.HelloThread$TestThread: int y>
+		Thread Thread-5 wrote static field x
+		Thread Thread-5 wrote static field out
